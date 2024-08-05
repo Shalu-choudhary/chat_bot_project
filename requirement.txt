@@ -1,0 +1,6 @@
+numpy
+streamlit
+google-generativeai # for gemini model
+python-dotenv   # for sequre info deal with .env
+Pillow  # open cv
+IPython
