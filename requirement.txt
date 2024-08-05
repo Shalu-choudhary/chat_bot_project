@@ -1,6 +1,6 @@
 numpy
-streamlit
-google-generativeai # for gemini model
+streamlit  # for frontend and backend without html or css
+google-generativeai # for LLM ( gemini ) model
 python-dotenv   # for sequre info deal with .env
 Pillow  # open cv
 IPython
